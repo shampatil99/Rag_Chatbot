@@ -1,0 +1,10 @@
+
+langchain-community
+pdfplumber
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+sentence-transformers
+huggingface_hub
+accelerate
